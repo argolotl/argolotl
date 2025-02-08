@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👾 Green Hat Hacker | Ethical Rebel | Code Alchemist 🟢💻
 
-<!--
-**argolotl/argolotl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 Explorando vulnerabilidades para aprender, no para destruir.  
+💡 Descompilando el mundo, un byte a la vez.  
+🚀 Programando exploits… pero solo en entornos controlados (o eso digo 😏).  
+🔐 Creyente del **Open Source** y la seguridad a través del conocimiento.  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack:
+- **💻 Lenguajes:** C, Python, Assembly, Bash, JavaScript.
+- **📡 Hacking & Networking:** Wireshark, Nmap, Metasploit, sqlmap.
+- **🔬 Seguridad:** Análisis de malware, pentesting, fuzzing.
+- **📚 Aprendiendo:** Ingeniería inversa, exploit development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Repositorios
+Repositorios llenos de scripts, exploits educativos y herramientas para aprender hacking.  
+🎯 Objetivo: Convertirme en un maestro del pentesting y la ciberseguridad.  
+ 
+
+---
+_"Las máquinas pueden ser hackeadas, las mentes pueden ser abiertas."_
